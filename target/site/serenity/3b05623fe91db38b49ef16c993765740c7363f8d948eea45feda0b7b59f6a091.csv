@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Employee","Obtener empleados response 404","SUCCESS","2022-08-27T11:36:27.495-05:00[America/Bogota]","0.0","1.42"
+"Get Employees","Obtener empleados response 404","SUCCESS","2022-08-27T11:36:31.599-05:00[America/Bogota]","0.0","1.24"
