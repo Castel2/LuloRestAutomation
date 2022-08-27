@@ -1,8 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Create Employee","Crear  un empleados","SUCCESS","2022-08-27T11:36:33.2-05:00[America/Bogota]","0.0","1.23"
-"Delete Employee","Eliminar un empleado","SUCCESS","2022-08-27T11:35:57.249-05:00[America/Bogota]","0.0","12.81"
-"Get Employee","Obtener  un empleados","SUCCESS","2022-08-27T11:36:25.941-05:00[America/Bogota]","0.0","1.54"
-"Get Employee","Obtener empleados response 404","SUCCESS","2022-08-27T11:36:27.495-05:00[America/Bogota]","0.0","1.42"
-"Get Employees","Obtener empleados","SUCCESS","2022-08-27T11:36:29.17-05:00[America/Bogota]","0.0","2.42"
-"Get Employees","Obtener empleados response 404","SUCCESS","2022-08-27T11:36:31.599-05:00[America/Bogota]","0.0","1.24"
-"Update Employee","Actualizar un empleado","SUCCESS","2022-08-27T11:36:34.728-05:00[America/Bogota]","0.0","1.21"
